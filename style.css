@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    color: #424242
+}
+.wrapper {
+    width: 1400px;
+    display: block;
+    margin: 0 auto;
+}
+nav{
+    height: 85px;
+}
+.logo{
+    color: #01996D;
+    font-size: 48px;
+    font-weight: 700;
+    float: left;
+    margin-top: 13px;
+}
+ul {
+    float: right;
+    padding: 0;
+    margin: 0;
+    margin-top: 30px;
+    list-style: none;
+}
+li {
+    float: left;
+    margin-left: 71px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.top-section {
+    text-align: center;
+    background-image: url(images/background.png);
+    background-size: 100%;
+    height: 895px;
+    color: #01996D;
+    font-weight: 700;
+    font-size: 96px;
+}
+h2{
+    color: #01996D;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+    float: left;
+    width: 50%;
+}
+.description{
+    float: right;
+    width: 50%;
+    line-height: 150%;
+    font-weight: 500;
+    font-size: 20px;
+}
+h1{
+    line-height: 157%;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+.video{
+    margin-top: 134px;
+    background-color: #245852;
+    overflow: hidden;
+    color: white;
+    padding: 229px 0 176px 0;
+}
+.video p {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 157%;
+}
+.about{
+    overflow: hidden;
+    margin-top: 105px
+}
+
+.video img {
+    width: 896px;
+    float: right;
+}
+.left-side{
+    float: left;
+}
+.right-side{
+    float: right;
+}
+.about p{
+    font-weight: 600;
+    font-size: 24px;
+}
